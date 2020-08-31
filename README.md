@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://codedamn.com/">
-        <img src="./logo.png" alt="codedamn" width="120" />
+        <img src="./logo.jpeg" alt="codedamn" width="120" />
     </a>
     <br /><br />
     <h1><code>Welcome to codedamn</code></h1>
