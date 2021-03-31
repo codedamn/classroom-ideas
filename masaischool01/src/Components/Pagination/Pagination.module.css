@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container > button {
+  margin: 2px;
+  padding: 0.25rem 0.5rem;
+  border: 0px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.container > button:hover {
+  background: #cecece;
+}

@@ -1,0 +1,29 @@
+.container {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.inputBox {
+  outline: 0px;
+  border: 0px;
+  background: #cecece;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 0.5rem;
+  font-size: 16px;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button :hover {
+  background: blue;
+}

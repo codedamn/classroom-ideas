@@ -1,0 +1,10 @@
+.todoContainer {
+  padding: 0.5rem;
+  background: #fdfdfd;
+}
+
+.spinnerContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}

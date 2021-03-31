@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "title": "Eat Carrots",
+      "status": false,
+      "id": 1
+    },
+
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 2
+    },
+
+    {
+      "title": "Learn Axios",
+      "status": false,
+      "id": 3
+    },
+
+    {
+      "title": "Learn Client Server",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn REST API",
+      "status": false,
+      "id": 5
+    }
+  ]
+}

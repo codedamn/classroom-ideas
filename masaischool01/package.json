@@ -1,0 +1,35 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.21.1",
+    "json-server": "^0.16.3",
+    "parse-link-header": "1.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.19.0",
+    "@snowpack/plugin-dotenv": "2.0.5",
+    "@snowpack/plugin-react-refresh": "2.4.1",
+    "@testing-library/jest-dom": "5.11.5",
+    "@testing-library/react": "11.1.1",
+    "snowpack": "3.1.2"
+  },
+  "scripts": {
+    "start": "yarn server & snowpack dev",
+    "server": "json-server --watch db.json --port 5050"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
